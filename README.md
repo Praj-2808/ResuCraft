@@ -12,7 +12,7 @@ ResuCraft aims to combine sleek resume templates, smart resume analysis, and mac
 
 ## 🔧 Tech Stack (Planned)
 
-- **Frontend**: Tailwind CSS (option to migrate to React)
+- **Frontend**: Tailwind CSS
 - **Backend**: Flask (Python)
 - **AI/NLP**: spaCy, BERT (for suggestions + screening)
 - **Database**: SQLite / PostgreSQL
